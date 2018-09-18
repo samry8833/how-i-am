@@ -16,7 +16,7 @@ play games,sports mostly basketball love going out with friends.
  - [] Canada
  - [] Family
 
- ## Hobbies
+ ## Hobbiesxzxz cz
  - [] sports
  - [] hang friends
  - [] games
@@ -41,4 +41,3 @@ play games,sports mostly basketball love going out with friends.
  - [] Sports
  - [] People around me
  - [] media
- 
