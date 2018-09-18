@@ -16,5 +16,9 @@ play games,sports mostly basketball love going out with friends.
  - [] language
  - [] flag  
  - [] birth place
-
+ ## Hobbies
+ - [] sports
+ - [] friends
+ - [] games
+ - [] photoshop
  
