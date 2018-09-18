@@ -11,18 +11,26 @@ play games,sports mostly basketball love going out with friends.
    - [] work on layout
 
   ## Background
- - [] my etheopian Natinality
- - [] food
- - [] language
  - [] flag  
  - [] birth place
+ - [] canada
+
  ## Hobbies
  - [] sports
  - [] friends
  - [] games
- - [] photoshop
+ - [] Photoshop
+ - [] gym
+ - []
+
  ## Experience
  - [] places visited / lived
  - [] friends
  - [] Sports
- - [] 
+
+  ## culture
+ - [] food
+ - [] language
+ - [] events
+ - [] holiday
+ - [] religion
