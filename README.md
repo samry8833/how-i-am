@@ -28,7 +28,7 @@ play games,sports mostly basketball love going out with friends.
  - [] places visited / lived
  - [] friends
  - [] Sports
- - [] 
+ - []
 
   ## culture
  - [] food
@@ -36,3 +36,9 @@ play games,sports mostly basketball love going out with friends.
  - [] events
  - [] holiday
  - [] religion
+
+ ## Personality
+ - [] Sports
+ - [] People around me
+ - [] media
+ 
