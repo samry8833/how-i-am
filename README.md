@@ -41,4 +41,4 @@ play games,sports mostly basketball love going out with friends.
  ## Personality
  - [] Sports
  - [] People around me
- - [] media
+ - [] social media
