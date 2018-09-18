@@ -16,19 +16,19 @@ play games,sports mostly basketball love going out with friends.
  - [] Canada
  - [] Family
 
- ## Hobbiesxzxz cz
+ ## Hobbies
  - [] sports
  - [] hang friends
  - [] games
  - [] Photoshop
  - [] gym
- - []
+
 
  ## Experience
  - [] places visited / lived
  - [] friends
  - [] Sports
- - []
+ - [] Family
 
   ## culture
  - [] food
