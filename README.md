@@ -22,4 +22,7 @@ play games,sports mostly basketball love going out with friends.
  - [] games
  - [] photoshop
  ## Experience
+ - [] places visited / lived
+ - [] friends
+ - [] Sports
  - [] 
