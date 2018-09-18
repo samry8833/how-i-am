@@ -10,8 +10,11 @@ play games,sports mostly basketball love going out with friends.
   - [] My First Objective is ...
    - [] work on layout
 
-  ## Background Natinality
+  ## Background
  - [] my etheopian Natinality
  - [] food
  - [] language
  - [] flag  
+ - [] birth place
+
+ 
