@@ -13,11 +13,12 @@ play games,sports mostly basketball love going out with friends.
   ## Background
  - [] flag  
  - [] birth place
- - [] canada
+ - [] Canada
+ - [] Family
 
  ## Hobbies
  - [] sports
- - [] friends
+ - [] hang friends
  - [] games
  - [] Photoshop
  - [] gym
@@ -27,6 +28,7 @@ play games,sports mostly basketball love going out with friends.
  - [] places visited / lived
  - [] friends
  - [] Sports
+ - [] 
 
   ## culture
  - [] food
