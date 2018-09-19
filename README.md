@@ -49,3 +49,4 @@ play games,sports mostly basketball love going out with friends.
  - [] favorite movie
  - [] favorite sports
  - [] favorite games
+ - [] favorite show
